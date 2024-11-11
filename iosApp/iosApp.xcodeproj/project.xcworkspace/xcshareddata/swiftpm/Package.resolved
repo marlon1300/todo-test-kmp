@@ -1,0 +1,24 @@
+{
+  "originHash" : "4fd1e3f42ba23b59ef760d02c8132c54fd1b7756f1cc7e2bf2ace1949d421e65",
+  "pins" : [
+    {
+      "identity" : "kmp-observableviewmodel",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rickclephas/KMP-ObservableViewModel.git",
+      "state" : {
+        "revision" : "805c41ff1305b02909c3b50a7e34a46b3c029c04",
+        "version" : "1.0.0-BETA-7"
+      }
+    },
+    {
+      "identity" : "routing",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/obvios/Routing.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "ef84e13ceb42335969944a7945f19119ba55f3ce"
+      }
+    }
+  ],
+  "version" : 3
+}

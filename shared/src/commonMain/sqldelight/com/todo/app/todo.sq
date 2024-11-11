@@ -1,0 +1,24 @@
+CREATE TABLE IF NOT EXISTS toDoEntity(
+    id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    todo TEXT NOT NULL
+);
+
+getAllToDos:
+SELECT *
+FROM toDoEntity;
+
+getToDoById:
+SELECT *
+FROM toDoEntity
+WHERE id = ?;
+
+insertToDo:
+INSERT OR REPLACE
+INTO toDoEntity(
+    id,
+    todo
+) VALUES(?,?);
+
+deleteTodo:
+DELETE FROM toDoEntity
+WHERE id = ?;

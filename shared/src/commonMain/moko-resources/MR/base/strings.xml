@@ -1,0 +1,30 @@
+<?xml  version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="login_label_title">Log in to your account</string>
+    <string name="login_label_email">Email Address</string>
+    <string name="login_label_password">Password</string>
+
+    <string name="dashboard_tab_home">Home</string>
+    <string name="dashboard_tab_filter">Filter</string>
+    <string name="dashboard_tab_notification">Notification</string>
+    <string name="dashboard_tab_profile">Profile</string>
+
+    <string name="profile_title">Profile</string>
+    <string name="profile_title_info">Profile Information</string>
+    <string name="profile_title_full_name">Full Name</string>
+    <string name="profile_title_email_address">Email Address</string>
+
+    <string name="button_logout">Log out</string>
+    <string name="button_login">Log in</string>
+    <string name="button_next">Next</string>
+    <string name="button_social_google">Continue with Google</string>
+    <string name="button_social_apple">Continue with Apple</string>
+    <string name="separator_or">or</string>
+
+    <string name="onboarding_title_1">Manage Your Tasks</string>
+    <string name="onboarding_body_1">Effortlessly keep track of your daily tasks in DoMe-completely free.</string>
+    <string name="onboarding_title_2">Create a Daily Routine</string>
+    <string name="onboarding_body_2">With Uptodo, build a personalized routine to help you stay productive.</string>
+    <string name="onboarding_title_3">Organize Your Tasks</string>
+    <string name="onboarding_body_3">Organize tasks easily by sorting them into categories.</string>
+</resources>
